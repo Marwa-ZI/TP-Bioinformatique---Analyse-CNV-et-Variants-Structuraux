@@ -19,7 +19,7 @@ Ce TP couvre deux analyses bioinformatiques appliquees a des echantillons oncolo
 
 L'environnement de TP est disponible en ligne via l'infrastructure Docker de l'Universite Paris Cite :
 
-**[Lancer l'environnement Jupyter](https://mydocker.universite-paris-saclay.fr/course/df98369f-0b3f-4efe-af02-8bc4955a03d0/magic-link)**
+**[Lancer l'environnement Jupyter](https://mydocker.universite-paris-saclay.fr/course/6f0c1159-74fa-4b24-a54c-5fe6a4f82448/magic-link)**
 
 > Aucune installation locale necessaire. L'environnement inclut R 4.4, Python 3, et tous les outils NGS pre-installes.
 
